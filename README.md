@@ -20,7 +20,7 @@ to compile: javac -d bin src/kindergarten/*.java
 to execute: java -cp bin kindergarten.Driver
 
 -----------------------------------------
-Programming Skills Utilized: __only mentioning new skills NOT in previous methods_
+Programming Skills Utilized: _only mentioning new skills NOT in previous methods_
 
 enterClassroom() 
   - File Handling(input): StdIn.setFile(filename)
