@@ -21,3 +21,13 @@ to execute: java -cp bin kindergarten.Driver
 
 -----------------------------------------
 Programming Skills Utilized: __only mentioning new skills NOT in previous methods_
+
+enterClassroom()
+  - 
+setupSeats()
+seatStudents()
+insertMusicalChairs()
+moveStudentFromChairsToLine()
+insertByHeight()
+eliminateLosingStudent()
+seatMusicalChairsWinner()
