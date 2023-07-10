@@ -56,7 +56,6 @@ insertByHeight()
   - Error Handling: empty lists
 
 eliminateLosingStudent()
-  - Decrease size of 
 
 seatMusicalChairsWinner()
   - Circular Linked Lists: each node has reference; last node points to first
